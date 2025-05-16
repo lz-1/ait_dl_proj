@@ -56,4 +56,9 @@ Make sure to download all the listed python packages. The code should run succes
 requirements.txt lists all python packages and their versions.
 
 
+**Additional notes:**
+
+ERA5 license: https://apps.ecmwf.int/datasets/licences/copernicus/
+CESM license: https://www.cesm.ucar.edu/models/cesm2/copyright
+
 
